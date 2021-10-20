@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Projects C++\OOTiSP LAB4\Source.cpp(207): warning C4715: List<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\Projects C++\OOTiSP LAB4\Source.cpp(165): warning C4172: возвращение адреса локальной или временной переменной : temp
+  OOTiSP LAB4.vcxproj -> D:\Projects C++\OOTiSP LAB4\Debug\OOTiSP LAB4.exe

@@ -1,0 +1,2 @@
+D:\Projects C++\OOTiSP LAB4\Debug\OOTiSP LAB4.exe
+D:\Projects C++\OOTiSP LAB4\Debug\OOTiSP LAB4.pdb
