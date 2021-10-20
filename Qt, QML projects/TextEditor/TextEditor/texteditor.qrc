@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>QtLab2Pictures/copy.png</file>
+        <file>QtLab2Pictures/cut.png</file>
+        <file>QtLab2Pictures/new.png</file>
+        <file>QtLab2Pictures/open.png</file>
+        <file>QtLab2Pictures/paste.png</file>
+        <file>QtLab2Pictures/save.png</file>
+    </qresource>
+</RCC>
