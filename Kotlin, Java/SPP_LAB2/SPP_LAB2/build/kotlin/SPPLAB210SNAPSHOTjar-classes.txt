@@ -1,0 +1,1 @@
+D:\Kotlin_Projects\SPP_LAB2\build\classes\kotlin\main\MainKt.class;D:\Kotlin_Projects\SPP_LAB2\build\classes\kotlin\main\Task1Kt.class;D:\Kotlin_Projects\SPP_LAB2\build\classes\kotlin\main\Task2Kt.class
