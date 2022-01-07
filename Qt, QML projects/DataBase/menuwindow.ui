@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MenuWindow</class>
+ <widget class="QDialog" name="MenuWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="palette">
+   <palette>
+    <active/>
+    <inactive/>
+    <disabled/>
+   </palette>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="pushButtonLookingTickets">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>220</y>
+     <width>171</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Просмотреть записи</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>280</x>
+     <y>80</y>
+     <width>241</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>14</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Выберите действие</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonDelete">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>220</y>
+     <width>171</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Удалить запись</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonEdit">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>220</y>
+     <width>171</width>
+     <height>121</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>10</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>Редактировать
+ запись</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonBack">
+   <property name="geometry">
+    <rect>
+     <x>630</x>
+     <y>520</y>
+     <width>111</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Назад</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
